@@ -7,6 +7,6 @@ It will not give you a virus do not worry do not mind the warning it is because 
 
 After youve had your fun:
 
-Non technical form - https://docs.google.com/forms/d/e/1FAIpQLScaLM9_HwdIPUDbr1GAJSiZbDPGlNyLH5XwrIEYqt9RWkofTg/viewform?usp=sf_link
+Non form - https://docs.google.com/forms/d/e/1FAIpQLScaLM9_HwdIPUDbr1GAJSiZbDPGlNyLH5XwrIEYqt9RWkofTg/viewform?usp=sf_link
 
-Technical form - https://docs.google.com/forms/d/e/1FAIpQLSd_SD-t7m0IMVRIrsxmIhd-pc59_UPLuZLOWXWxaTlDgxLJHw/viewform?usp=sf_link
+Non technical form - https://docs.google.com/forms/d/e/1FAIpQLSd_SD-t7m0IMVRIrsxmIhd-pc59_UPLuZLOWXWxaTlDgxLJHw/viewform?usp=sf_link
