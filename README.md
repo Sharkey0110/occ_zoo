@@ -9,4 +9,4 @@ After youve had your fun:
 
 Non technical form - https://docs.google.com/forms/d/e/1FAIpQLScaLM9_HwdIPUDbr1GAJSiZbDPGlNyLH5XwrIEYqt9RWkofTg/viewform?usp=sf_link
 
-Technical form -
+Technical form - https://docs.google.com/forms/d/e/1FAIpQLSd_SD-t7m0IMVRIrsxmIhd-pc59_UPLuZLOWXWxaTlDgxLJHw/viewform?usp=sf_link
